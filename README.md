@@ -11,3 +11,5 @@ Tech stacks used are:
 ReactJS (Frontend),
 SpringBoot + Java  (Backend),
 MySQL (Database)
+
+Please note that there are two different braches - frontend and backend for frontend and backend files respectively.
