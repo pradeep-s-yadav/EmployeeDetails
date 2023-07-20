@@ -8,7 +8,7 @@ and saving it in the SQL Database using backend.
 
 Tech stacks used are:
 
-ReactJS (Frontend),
+ReactJS + JavaScript + Bootstrap (Frontend),
 SpringBoot + Java  (Backend),
 MySQL (Database)
 
