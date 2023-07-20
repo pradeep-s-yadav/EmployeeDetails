@@ -4,7 +4,7 @@
 Hi! 
 
 My name is Pradeep and this Project is a prototype of a project for storing employee details by taking input from the frontend
-and saving it in the SQL Database using backend.
+and saving it in the SQL Database using backend using Restful APIs.
 
 Tech stacks used are:
 
