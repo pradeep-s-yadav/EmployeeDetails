@@ -12,4 +12,6 @@ ReactJS + JavaScript + Bootstrap (Frontend),
 SpringBoot + Java  (Backend),
 MySQL (Database)
 
-Please note that there are two different braches - frontend and backend for frontend and backend files respectively.
+Please note that there are 3 different braches - 2 frontend and 1 backend files.
+
+Frontend-ReactApp branch has React Application where as Frontend-User branch has to do with creating, updating and deleting the employee using Hooks. 
